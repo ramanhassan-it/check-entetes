@@ -76,5 +76,3 @@ n'exploite aucune faille.
   (ex : un `max-age` trop court pour HSTS)
 - analyser une liste de sites d'un coup
 - export du rapport en CSV
-Mise à jour contributeurs
-Mise à jour contributeurs
